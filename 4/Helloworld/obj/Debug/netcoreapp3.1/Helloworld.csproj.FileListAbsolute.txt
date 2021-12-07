@@ -1,0 +1,13 @@
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.deps.json
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.runtimeconfig.json
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.runtimeconfig.dev.json
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.dll
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.pdb
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.AssemblyInfoInputs.cache
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.AssemblyInfo.cs
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.csproj.CoreCompileInputs.cache
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.dll
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.pdb
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.genruntimeconfig.cache
+/Users/verikpaster/Desktop/NULP/Марко/Ханас/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.csprojAssemblyReference.cache
